@@ -1,0 +1,1994 @@
+        <li id="gallery_image_64" class="post3 image225089" rel="64" data-slug="photo-n-225089">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Neal-Ferguson.jpg" data-lightbox="image225089" data-title="Neal Ferguson"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Neal-Ferguson.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A view of clouds draped over the Pannamints in Death Valley, California, US.<a href="/gallery/photographer/neal-ferguson"> &copy; Neal Ferguson</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="5:03 pm">August 10, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/stratus" rel="366" class="filter366">Stratus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Neal+Ferguson&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-225089%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Neal-Ferguson.jpg&amp;p[summary]=A+view+of+clouds+draped+over+the+Pannamints+in+Death+Valley%2C+California%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+view+of+clouds+draped+over+the+Pannamints+in+Death+Valley%2C+California%2C+US.https://cloudappreciationsociety.org/photo-n-225089/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-225089%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-225089%2F&amp;title=Neal+Ferguson', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="225089" href="https://cloudappreciationsociety.org/photo-n-225089/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-225089" title="Like this"><i class='icon_heart'></i><span>9</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments225089" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-225089%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_65" class="post3 image224941" rel="65" data-slug="photo-n-224941">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Stephan-Van-Wassenhove.jpg" data-lightbox="image224941" data-title="Stephan Van Wassenhove"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Stephan-Van-Wassenhove.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A bright section of halo over Vilvoorde, Belgium.<a href="/gallery/photographer/stephan-van-wassenhove"> &copy; Stephan Van Wassenhove</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:59 pm">August 9, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/cirrus" rel="343" class="filter343">Cirrus</a></li><li> | <a href="/gallery/filter/halos" rel="363" class="filter363">Halos</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Stephan+Van+Wassenhove&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224941%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Stephan-Van-Wassenhove.jpg&amp;p[summary]=A+bright+section+of+halo+over+Vilvoorde%2C+Belgium.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+bright+section+of+halo+over+Vilvoorde%2C+Belgium.https://cloudappreciationsociety.org/photo-n-224941/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224941%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224941%2F&amp;title=Stephan+Van+Wassenhove', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224941" href="https://cloudappreciationsociety.org/photo-n-224941/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>1</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224941" title="Like this"><i class='icon_heart'></i><span>19</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224941" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>1 Comment </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img alt='Laurence Green' src='https://secure.gravatar.com/avatar/ab8d20dbb6d0c40258ae3250aa5e8fe3?s=102&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ab8d20dbb6d0c40258ae3250aa5e8fe3?s=204&amp;d=mm&amp;r=g 2x' class='avatar avatar-102 wp-user-avatar wp-user-avatar-102 alignnone photo' height='102' width='102' /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Laurence Green</h4>
+				<span class="comment_date">August 12, 2017 at 10:15 pm</span>
+							</div>
+			<div class="text_holder" id="comment-512519">
+				<p>Wonderful capture, Stephen.</p>
+<p>The more one looks at this photo a &#8220;face&#8221;, a kind and benevolent serene one, slowly reveals itself.  Clue:- it looks from the left to the right of the photo.  Give the photo a bit of time to let the &#8220;face&#8221; appear.</p>
+<p>Laurence</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224941%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_66" class="post3 image224940" rel="66" data-slug="photo-n-224940">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrizia-Gadda.jpg" data-lightbox="image224940" data-title="Patrizia Gadda"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrizia-Gadda.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A Turtle over northern Italy.<a href="/gallery/photographer/Patrizia Gadda"> &copy; Patrizia Gadda</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:53 pm">August 9, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/lenticularis" rel="335" class="filter335">Lenticularis</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/cloudalikes" rel="348" class="filter348">Clouds that look like things</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Patrizia+Gadda&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224940%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrizia-Gadda.jpg&amp;p[summary]=A+Turtle+over+northern+Italy.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+Turtle+over+northern+Italy.https://cloudappreciationsociety.org/photo-n-224940/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224940%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224940%2F&amp;title=Patrizia+Gadda', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224940" href="https://cloudappreciationsociety.org/photo-n-224940/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224940" title="Like this"><i class='icon_heart'></i><span>5</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224940" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224940%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_67" class="post3 image224938" rel="67" data-slug="photo-n-224938">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Lauren-Antanaitis.jpg" data-lightbox="image224938" data-title="Lauren Antanaitis"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Lauren-Antanaitis.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A classic step leader lightning strike over Huntersville, North Carolina, US.<a href="/gallery/photographer/lauren-antanaitis"> &copy; Lauren Antanaitis</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:47 pm">August 9, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong>							<ul class="cloud-filter">								<li>									<a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a>								</li>								<li> | <a href="/gallery/filter/a-classic-example" rel="347" class="filter347">A classic example</a>								</li>								<li> | <a href="/gallery/filter/at-night" rel="360" class="filter360">At night</a></li><li> | <a href="/gallery/filter/lightning" rel="386" class="filter386">Lightning</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Lauren+Antanaitis&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224938%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Lauren-Antanaitis.jpg&amp;p[summary]=A+classic+step+leader+lightning+strike+over+Huntersville%2C+North+Carolina%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+classic+step+leader+lightning+strike+over+Huntersville%2C+North+Carolina%2C+US.https://cloudappreciationsociety.org/photo-n-224938/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224938%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224938%2F&amp;title=Lauren+Antanaitis', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224938" href="https://cloudappreciationsociety.org/photo-n-224938/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224938" title="Like this"><i class='icon_heart'></i><span>4</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224938" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224938%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_68" class="post3 image224934" rel="68" data-slug="photo-n-224934">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Jacintha-Stephens.jpg" data-lightbox="image224934" data-title="Jacintha Stephens"><img class="slideshowimage" sizes="(max-width: 770px) 100vw, 770px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Jacintha-Stephens.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunrise over Singapore.<a href="/gallery/photographer/jacintha-stephens"> &copy; Jacintha Stephens</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:17 pm">August 9, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/undulatus" rel="358" class="filter358">Undulatus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Jacintha+Stephens&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224934%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Jacintha-Stephens.jpg&amp;p[summary]=A+sunrise+over+Singapore.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunrise+over+Singapore.https://cloudappreciationsociety.org/photo-n-224934/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224934%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224934%2F&amp;title=Jacintha+Stephens', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224934" href="https://cloudappreciationsociety.org/photo-n-224934/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224934" title="Like this"><i class='icon_heart'></i><span>9</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224934" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224934%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_69" class="post3 image224933" rel="69" data-slug="photo-n-224933">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Monika-Iskander.jpg" data-lightbox="image224933" data-title="Monika Iskander"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Monika-Iskander.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A storm front looming over suburban Poznan, Poland.<a href="/gallery/photographer/monika-iskander"> &copy; Monika Iskander</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:12 pm">August 9, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/arcus" rel="339" class="filter339">Arcus</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li><li> | <a href="/gallery/filter/a-classic-example" rel="347" class="filter347">A classic example</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Monika+Iskander&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224933%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Monika-Iskander.jpg&amp;p[summary]=A+storm+front+looming+over+suburban+Poznan%2C+Poland.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+storm+front+looming+over+suburban+Poznan%2C+Poland.https://cloudappreciationsociety.org/photo-n-224933/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224933%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224933%2F&amp;title=Monika+Iskander', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224933" href="https://cloudappreciationsociety.org/photo-n-224933/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224933" title="Like this"><i class='icon_heart'></i><span>16</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224933" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224933%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_70" class="post3 image224770" rel="70" data-slug="photo-n-224770">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Chris-Meredith.jpg" data-lightbox="image224770" data-title="Chris Meredith"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Chris-Meredith.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunset over Balmoral Beach, Sydney, NSW, Australia.<a href="/gallery/photographer/chris-meredith"> &copy; Chris Meredith</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:42 pm">August 8, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/undulatus" rel="358" class="filter358">Undulatus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Chris+Meredith&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224770%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Chris-Meredith.jpg&amp;p[summary]=A+sunset+over+Balmoral+Beach%2C+Sydney%2C+NSW%2C+Australia.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunset+over+Balmoral+Beach%2C+Sydney%2C+NSW%2C+Australia.https://cloudappreciationsociety.org/photo-n-224770/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224770%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224770%2F&amp;title=Chris+Meredith', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224770" href="https://cloudappreciationsociety.org/photo-n-224770/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>1</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224770" title="Like this"><i class='icon_heart'></i><span>13</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224770" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>1 Comment </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Laurence Green</h4>
+				<span class="comment_date">August 9, 2017 at 10:39 pm</span>
+							</div>
+			<div class="text_holder" id="comment-510729">
+				<p>Beautiful and most arrestingly peaceful.  Lovely shot, Chris.</p>
+<p>The clouds make it all in your photo.  Thanks.</p>
+<p>Laurence</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224770%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_71" class="post3 image224768" rel="71" data-slug="photo-n-224768">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Trudy-Andreasen.jpg" data-lightbox="image224768" data-title="Trudy Andreasen"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Trudy-Andreasen.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A turbulent sky over Kelly Cove, Minnetonka, Minnesota, US.<a href="/gallery/photographer/trudy-andreasen"> &copy; Trudy Andreasen</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:30 pm">August 8, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Trudy+Andreasen&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224768%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Trudy-Andreasen.jpg&amp;p[summary]=A+turbulent+sky+over+Kelly+Cove%2C+Minnetonka%2C+Minnesota%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+turbulent+sky+over+Kelly+Cove%2C+Minnetonka%2C+Minnesota%2C+US.https://cloudappreciationsociety.org/photo-n-224768/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224768%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224768%2F&amp;title=Trudy+Andreasen', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224768" href="https://cloudappreciationsociety.org/photo-n-224768/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224768" title="Like this"><i class='icon_heart'></i><span>14</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224768" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224768%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_72" class="post3 image224764" rel="72" data-slug="photo-n-224764">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Michael-Ellis.jpg" data-lightbox="image224764" data-title="Michael Ellis"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Michael-Ellis.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">Dr. Suess's birthday bird over Pantanal in central Brazil.<a href="/gallery/photographer/michael ellis"> &copy; Michael Ellis</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:30 pm">August 8, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/cirrus" rel="343" class="filter343">Cirrus</a></li><li> | <a href="/gallery/filter/cloudalikes" rel="348" class="filter348">Clouds that look like things</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Michael+Ellis&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224764%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Michael-Ellis.jpg&amp;p[summary]=Dr.+Suess%5C%27s+birthday+bird+over+Pantanal+in+central+Brazil.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=Dr.+Suess%27s+birthday+bird+over+Pantanal+in+central+Brazil.https://cloudappreciationsociety.org/photo-n-224764/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224764%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224764%2F&amp;title=Michael+Ellis', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224764" href="https://cloudappreciationsociety.org/photo-n-224764/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224764" title="Like this"><i class='icon_heart'></i><span>7</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224764" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224764%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_73" class="post3 image224758" rel="73" data-slug="photo-n-224758">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrick-Dennis-1.jpg" data-lightbox="image224758" data-title="Patrick Dennis"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrick-Dennis-1.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sleeping white buffalo over eastern Colorado, US.<a href="/gallery/photographer/patrick-dennis"> &copy; Patrick Dennis</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:23 pm">August 8, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/above-the-clouds" rel="346" class="filter346">Above the clouds</a></li><li> | <a href="/gallery/filter/cloudalikes" rel="348" class="filter348">Clouds that look like things</a></li><li> | <a href="/gallery/filter/contrail-homogenitus" rel="532" class="filter532">Contrail (homogenitus)</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Patrick+Dennis&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224758%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrick-Dennis-1.jpg&amp;p[summary]=A+sleeping+white+buffalo+over+eastern+Colorado%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sleeping+white+buffalo+over+eastern+Colorado%2C+US.https://cloudappreciationsociety.org/photo-n-224758/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224758%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224758%2F&amp;title=Patrick+Dennis', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224758" href="https://cloudappreciationsociety.org/photo-n-224758/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>1</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224758" title="Like this"><i class='icon_heart'></i><span>13</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224758" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>1 Comment </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Laurence Green</h4>
+				<span class="comment_date">August 8, 2017 at 9:55 pm</span>
+							</div>
+			<div class="text_holder" id="comment-509993">
+				<p>Love this one!  A big ponderous cloud seemingly looking and searching for a suitable place to land  or settle somewhere in big Colorado.  A big cloud with a big landscape below.</p>
+<p>Laurence</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224758%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_74" class="post3 image224749" rel="74" data-slug="photo-n-224749">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Emily-Wilde.jpg" data-lightbox="image224749" data-title="Emily Wilde"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Emily-Wilde.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunset over Taos, New Mexico, US.<a href="/gallery/photographer/emily-wilde"> &copy; Emily Wilde</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:17 pm">August 8, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/lacunosus" rel="380" class="filter380">Lacunosus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Emily+Wilde&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224749%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Emily-Wilde.jpg&amp;p[summary]=A+sunset+over+Taos%2C+New+Mexico%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunset+over+Taos%2C+New+Mexico%2C+US.https://cloudappreciationsociety.org/photo-n-224749/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224749%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224749%2F&amp;title=Emily+Wilde', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224749" href="https://cloudappreciationsociety.org/photo-n-224749/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224749" title="Like this"><i class='icon_heart'></i><span>7</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224749" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224749%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_75" class="post3 image224589" rel="75" data-slug="photo-n-224589">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/eJ7U3SrJX42wQMGau0OVDgvh7pFWuI.jpg" data-lightbox="image224589" data-title="Tom Bean"><img class="slideshowimage" sizes="(max-width: 1536px) 100vw, 1536px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/eJ7U3SrJX42wQMGau0OVDgvh7pFWuI.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A shelf cloud, or arcus, juts out at the front base of an advancing Cumulonimbus storm cloud over Flagstaff, Arizona, US <a href="/gallery/photographer/tom-bean"> &copy; Tom Bean</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="11:29 pm">August 7, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/arcus" rel="339" class="filter339">Arcus</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Tom+Bean&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224589%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/eJ7U3SrJX42wQMGau0OVDgvh7pFWuI.jpg&amp;p[summary]=A+shelf+cloud%2C+or+arcus%2C+juts+out+at+the+front+base+of+an+advancing+Cumulonimbus+storm+cloud+over+Flagstaff%2C+Arizona%2C+US+', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+shelf+cloud%2C+or+arcus%2C+juts+out+at+the+front+base+of+an+advancing+Cumulonimbus+storm+cloud+over+Flagstaff%2C+Arizona%2C+https://cloudappreciationsociety.org/photo-n-224589/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224589%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224589%2F&amp;title=Tom+Bean', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224589" href="https://cloudappreciationsociety.org/photo-n-224589/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224589" title="Like this"><i class='icon_heart'></i><span>11</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224589" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224589%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_76" class="post3 image224570" rel="76" data-slug="photo-n-224570">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Marcel-van-Someren.jpg" data-lightbox="image224570" data-title="Marcel van Someren"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Marcel-van-Someren.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunrise over Posbank, Veluwe, Netherlands.<a href="/gallery/photographer/marcel van-someren"> &copy; Marcel van Someren</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:28 pm">August 7, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/stratocumulus" rel="337" class="filter337">Stratocumulus</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/roll-cloud-volutus" rel="529" class="filter529">Roll cloud (volutus)</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Marcel+van+Someren&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224570%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Marcel-van-Someren.jpg&amp;p[summary]=A+sunrise+over+Posbank%2C+Veluwe%2C+Netherlands.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunrise+over+Posbank%2C+Veluwe%2C+Netherlands.https://cloudappreciationsociety.org/photo-n-224570/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224570%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224570%2F&amp;title=Marcel+van+Someren', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224570" href="https://cloudappreciationsociety.org/photo-n-224570/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>2</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224570" title="Like this"><i class='icon_heart'></i><span>39</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224570" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>2  Comments </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Adolfo Garcia-Marin</h4>
+				<span class="comment_date">August 8, 2017 at 8:57 am</span>
+							</div>
+			<div class="text_holder" id="comment-509580">
+				<p>A perfect picture, Marcel. Congrats.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Michael Sharp</h4>
+				<span class="comment_date">August 21, 2017 at 2:55 pm</span>
+							</div>
+			<div class="text_holder" id="comment-517790">
+				<p>A stunning image.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224570%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_77" class="post3 image224569" rel="77" data-slug="photo-n-224569">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/BJ-Hauswald.jpg" data-lightbox="image224569" data-title="BJ Hauswald"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/BJ-Hauswald.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A classic fogbow over Wellfleet, Massachusetts, US.<a href="/gallery/photographer/bj-hauswald"> &copy; BJ Hauswald</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:18 pm">August 7, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/a-classic-example" rel="347" class="filter347">A classic example</a></li><li> | <a href="/gallery/filter/fogmist" rel="371" class="filter371">Fog / Mist</a></li><li> | <a href="/gallery/filter/fogbow" rel="465" class="filter465">fogbow</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=BJ+Hauswald&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224569%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/BJ-Hauswald.jpg&amp;p[summary]=A+classic+fogbow+over+Wellfleet%2C+Massachusetts%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+classic+fogbow+over+Wellfleet%2C+Massachusetts%2C+US.https://cloudappreciationsociety.org/photo-n-224569/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224569%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224569%2F&amp;title=BJ+Hauswald', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224569" href="https://cloudappreciationsociety.org/photo-n-224569/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224569" title="Like this"><i class='icon_heart'></i><span>11</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224569" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224569%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_78" class="post3 image224567" rel="78" data-slug="photo-n-224567">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Adolfo-Garcia-Marin.jpg" data-lightbox="image224567" data-title="Adolfo Garcia-Marin"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Adolfo-Garcia-Marin.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">An undulating Altocumulus formation over Paracuellos del Jarama, Spain.<a href="/gallery/photographer/Adolfo Garcia-Marin"> &copy; Adolfo Garcia-Marin</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:02 pm">August 7, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/undulatus" rel="358" class="filter358">Undulatus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Adolfo+Garcia-Marin&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224567%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Adolfo-Garcia-Marin.jpg&amp;p[summary]=An+undulating+Altocumulus+formation+over+Paracuellos+del+Jarama%2C+Spain.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=An+undulating+Altocumulus+formation+over+Paracuellos+del+Jarama%2C+Spain.https://cloudappreciationsociety.org/photo-n-224567/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224567%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224567%2F&amp;title=Adolfo+Garcia-Marin', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224567" href="https://cloudappreciationsociety.org/photo-n-224567/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224567" title="Like this"><i class='icon_heart'></i><span>15</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224567" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224567%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_79" class="post3 image224565" rel="79" data-slug="photo-n-224565">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Daryl-Edelstein.jpg" data-lightbox="image224565" data-title="Daryl Edelstein"><img class="slideshowimage" sizes="(max-width: 675px) 100vw, 675px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Daryl-Edelstein.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A storm system over New York's Harbour, US.<a href="/gallery/photographer/daryl-edelstein"> &copy; Daryl Edelstein</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:53 pm">August 7, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Daryl+Edelstein&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224565%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Daryl-Edelstein.jpg&amp;p[summary]=A+storm+system+over+New+York%5C%27s+Harbour%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+storm+system+over+New+York%27s+Harbour%2C+US.https://cloudappreciationsociety.org/photo-n-224565/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224565%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224565%2F&amp;title=Daryl+Edelstein', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224565" href="https://cloudappreciationsociety.org/photo-n-224565/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224565" title="Like this"><i class='icon_heart'></i><span>5</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224565" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224565%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_80" class="post3 image224563" rel="80" data-slug="photo-n-224563">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Rachel-Whiteman.jpg" data-lightbox="image224563" data-title="Rachel Whiteman"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Rachel-Whiteman.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A Rhinoceros over West Virginia, US.<a href="/gallery/photographer/rachel-whiteman"> &copy; Rachel Whiteman</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:31 pm">August 7, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/cloudalikes" rel="348" class="filter348">Clouds that look like things</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Rachel+Whiteman&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224563%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Rachel-Whiteman.jpg&amp;p[summary]=A+Rhinoceros+over+West+Virginia%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+Rhinoceros+over+West+Virginia%2C+US.https://cloudappreciationsociety.org/photo-n-224563/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224563%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224563%2F&amp;title=Rachel+Whiteman', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224563" href="https://cloudappreciationsociety.org/photo-n-224563/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224563" title="Like this"><i class='icon_heart'></i><span>3</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224563" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224563%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_81" class="post3 image224154" rel="81" data-slug="photo-n-224154">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/David-Pearce.jpg" data-lightbox="image224154" data-title="David Pearce"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/David-Pearce.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">An asperitas formation over Moscow.<a href="/gallery/photographer/David Pearce"> &copy; David Pearce</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:15 pm">August 4, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/stratocumulus" rel="337" class="filter337">Stratocumulus</a></li><li> | <a href="/gallery/filter/asperitas" rel="355" class="filter355">Asperitas</a></li><li> | <a href="/gallery/filter/undulatus" rel="358" class="filter358">Undulatus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=David+Pearce&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224154%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/David-Pearce.jpg&amp;p[summary]=An+asperitas+formation+over+Moscow.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=An+asperitas+formation+over+Moscow.https://cloudappreciationsociety.org/photo-n-224154/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224154%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224154%2F&amp;title=David+Pearce', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224154" href="https://cloudappreciationsociety.org/photo-n-224154/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>2</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224154" title="Like this"><i class='icon_heart'></i><span>13</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224154" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>2  Comments </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Photo Editor</h4>
+				<span class="comment_date">August 4, 2017 at 8:25 pm</span>
+							</div>
+			<div class="text_holder" id="comment-506815">
+				<p>More information here&#8230;</p>
+<p><a href="https://cloudappreciationsociety.org/gravity-waves/" rel="nofollow">https://cloudappreciationsociety.org/gravity-waves/</a></p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Michael Davies</h4>
+				<span class="comment_date">August 5, 2017 at 8:10 am</span>
+							</div>
+			<div class="text_holder" id="comment-507051">
+				<p>super capture</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224154%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_82" class="post3 image224152" rel="82" data-slug="photo-n-224152">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Zach-Neven.jpg" data-lightbox="image224152" data-title="Zach Neven"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Zach-Neven.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunset over Ghent, New York, US.<a href="/gallery/photographer/zach-neven"> &copy; Zach Neven</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="8:03 pm">August 4, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/stratus" rel="366" class="filter366">Stratus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Zach+Neven&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224152%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Zach-Neven.jpg&amp;p[summary]=A+sunset+over+Ghent%2C+New+York%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunset+over+Ghent%2C+New+York%2C+US.https://cloudappreciationsociety.org/photo-n-224152/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224152%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224152%2F&amp;title=Zach+Neven', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224152" href="https://cloudappreciationsociety.org/photo-n-224152/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224152" title="Like this"><i class='icon_heart'></i><span>7</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224152" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224152%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_83" class="post3 image224151" rel="83" data-slug="photo-n-224151">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Adrian-Wakefield.jpg" data-lightbox="image224151" data-title="Adrian Wakefield"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Adrian-Wakefield.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A searchlight looking for a silver lining over Greenford, West London, UK.<a href="/gallery/photographer/adrian-wakefield"> &copy; Adrian Wakefield</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:52 pm">August 4, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/crepuscular-rays-shadows" rel="357" class="filter357">Crepuscular rays &amp; shadows</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Adrian+Wakefield&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224151%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Adrian-Wakefield.jpg&amp;p[summary]=A+searchlight+looking+for+a+silver+lining+over+Greenford%2C+West+London%2C+UK.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+searchlight+looking+for+a+silver+lining+over+Greenford%2C+West+London%2C+UK.https://cloudappreciationsociety.org/photo-n-224151/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224151%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224151%2F&amp;title=Adrian+Wakefield', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224151" href="https://cloudappreciationsociety.org/photo-n-224151/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224151" title="Like this"><i class='icon_heart'></i><span>5</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224151" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224151%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_84" class="post3 image224149" rel="84" data-slug="photo-n-224149">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Jessica-Wilkin.jpg" data-lightbox="image224149" data-title="Jessica Wilkin"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Jessica-Wilkin.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A mammatus formation over Toronto, Canada.<a href="/gallery/photographer/jessica-wilkin"> &copy; Jessica Wilkin</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:42 pm">August 4, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li><li> | <a href="/gallery/filter/mamma" rel="341" class="filter341">Mamma</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Jessica+Wilkin&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224149%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Jessica-Wilkin.jpg&amp;p[summary]=A+mammatus+formation+over+Toronto%2C+Canada.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+mammatus+formation+over+Toronto%2C+Canada.https://cloudappreciationsociety.org/photo-n-224149/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224149%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224149%2F&amp;title=Jessica+Wilkin', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224149" href="https://cloudappreciationsociety.org/photo-n-224149/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224149" title="Like this"><i class='icon_heart'></i><span>10</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224149" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224149%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_85" class="post3 image224147" rel="85" data-slug="photo-n-224147">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Eileen-Krejny.jpg" data-lightbox="image224147" data-title="Eileen Krejny"><img class="slideshowimage" sizes="(max-width: 675px) 100vw, 675px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Eileen-Krejny.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunset over Sunset Beach, North Carolina, US.<a href="/gallery/photographer/eileen-krejny"> &copy; Eileen Krejny</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="7:33 pm">August 4, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li><li> | <a href="/gallery/filter/crepuscular-rays-shadows" rel="357" class="filter357">Crepuscular rays &amp; shadows</a></li><li> | <a href="/gallery/filter/iridescence" rel="361" class="filter361">Iridescence</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Eileen+Krejny&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224147%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Eileen-Krejny.jpg&amp;p[summary]=A+sunset+over+Sunset+Beach%2C+North+Carolina%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunset+over+Sunset+Beach%2C+North+Carolina%2C+US.https://cloudappreciationsociety.org/photo-n-224147/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224147%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224147%2F&amp;title=Eileen+Krejny', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="224147" href="https://cloudappreciationsociety.org/photo-n-224147/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-224147" title="Like this"><i class='icon_heart'></i><span>13</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments224147" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-224147%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_86" class="post3 image223977" rel="86" data-slug="photo-n-223977">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Paul-Martini.jpg" data-lightbox="image223977" data-title="Paul Martini"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Paul-Martini.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">An abundance of lightning over Bluff, Utah, US.<a href="/gallery/photographer/paul-martini"> &copy; Paul Martini</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:59 pm">August 3, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li><li> | <a href="/gallery/filter/at-night" rel="360" class="filter360">At night</a></li><li> | <a href="/gallery/filter/lightning" rel="386" class="filter386">Lightning</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Paul+Martini&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223977%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Paul-Martini.jpg&amp;p[summary]=An+abundance+of+lightning+over+Bluff%2C+Utah%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=An+abundance+of+lightning+over+Bluff%2C+Utah%2C+US.https://cloudappreciationsociety.org/photo-n-223977/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223977%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223977%2F&amp;title=Paul+Martini', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223977" href="https://cloudappreciationsociety.org/photo-n-223977/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>7</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223977" title="Like this"><i class='icon_heart'></i><span>15</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223977" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>7  Comments </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Photo Editor</h4>
+				<span class="comment_date">August 3, 2017 at 7:05 pm</span>
+							</div>
+			<div class="text_holder" id="comment-506225">
+				<p>Quote from Paul&#8230;</p>
+<p>&#8220;Last night this entire region had a series of some of the most incredible electrical storms I&#8217;ve ever seen&#8221;.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Michael Davies</h4>
+				<span class="comment_date">August 4, 2017 at 9:03 am</span>
+							</div>
+			<div class="text_holder" id="comment-506473">
+				<p>Superb image Paul well captured</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Laurence Green</h4>
+				<span class="comment_date">August 4, 2017 at 5:00 pm</span>
+							</div>
+			<div class="text_holder" id="comment-506733">
+				<p>A to be expected typical grand shot from you, Paul.</p>
+<p>This is a big &#8220;WOW!!!&#8221; photo.  I would ascribe the following in appreciation of your magnificent photo:- astounding, atmospheric, awe inspiring, electric (pun intended!), powerful and truly memorable,   Oh, GEEZ!!!</p>
+<p>Maybe, who knows, this marvellous photo might possibly be a good candidate to feature in the CAS 2018 calendar?</p>
+<p>Thanks for the sharing of this wonder.</p>
+<p>Laurence</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Paul Martini</h4>
+				<span class="comment_date">August 4, 2017 at 9:15 pm</span>
+							</div>
+			<div class="text_holder" id="comment-506828">
+				<p>Thank you Michael and Laurence.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Ginnie Powell</h4>
+				<span class="comment_date">August 5, 2017 at 3:35 am</span>
+							</div>
+			<div class="text_holder" id="comment-506996">
+				<p>I agree with you, Laurence. This is definitely a calendar-worthy photo. Bravo, Paul.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Joan H.</h4>
+				<span class="comment_date">August 6, 2017 at 6:46 pm</span>
+							</div>
+			<div class="text_holder" id="comment-507793">
+				<p>This does it!!  A most magnificent lightning photo I&#8217;ve seen!  Yes, it should make next year&#8217;s calendar and the &#8220;Cloud of the Month&#8221; as well.  The colors are truly electric blue.  Oh, my.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Paul Martini</h4>
+				<span class="comment_date">August 8, 2017 at 12:36 am</span>
+							</div>
+			<div class="text_holder" id="comment-509407">
+				<p>Thank you Ginnie and Joan.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223977%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_87" class="post3 image223976" rel="87" data-slug="photo-n-223976">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Lauris-Lowe.jpg" data-lightbox="image223976" data-title="Lauris Lowe"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Lauris-Lowe.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sky filled with Cirrus over Geelong, Victoria, Australia.<a href="/gallery/photographer/lauris-lowe"> &copy; Lauris Lowe</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:51 pm">August 3, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cirrus" rel="343" class="filter343">Cirrus</a></li><li> | <a href="/gallery/filter/uncinus" rel="381" class="filter381">Uncinus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Lauris+Lowe&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223976%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Lauris-Lowe.jpg&amp;p[summary]=A+sky+filled+with+Cirrus+over+Geelong%2C+Victoria%2C+Australia.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sky+filled+with+Cirrus+over+Geelong%2C+Victoria%2C+Australia.https://cloudappreciationsociety.org/photo-n-223976/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223976%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223976%2F&amp;title=Lauris+Lowe', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223976" href="https://cloudappreciationsociety.org/photo-n-223976/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223976" title="Like this"><i class='icon_heart'></i><span>5</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223976" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223976%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_88" class="post3 image223974" rel="88" data-slug="photo-n-223974">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Marco-Mario-Monaco-1.jpg" data-lightbox="image223974" data-title="Marco Mario Monaco"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Marco-Mario-Monaco-1.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunset over the gulf of Naples. <a href="/gallery/photographer/marco-mario-monaco"> &copy; Marco Mario Monaco Aged 8 years</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:40 pm">August 3, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Marco+Mario+Monaco&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223974%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Marco-Mario-Monaco-1.jpg&amp;p[summary]=A+sunset+over+the+gulf+of+Naples.+', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunset+over+the+gulf+of+Naples.+https://cloudappreciationsociety.org/photo-n-223974/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223974%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223974%2F&amp;title=Marco+Mario+Monaco', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223974" href="https://cloudappreciationsociety.org/photo-n-223974/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223974" title="Like this"><i class='icon_heart'></i><span>9</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223974" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223974%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_89" class="post3 image223972" rel="89" data-slug="photo-n-223972">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Mary-Cooper.jpg" data-lightbox="image223972" data-title="Mary Cooper"><img class="slideshowimage" sizes="(max-width: 675px) 100vw, 675px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Mary-Cooper.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A glory over Oslo.<a href="/gallery/photographer/mary-cooper"> &copy; Mary Cooper</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:32 pm">August 3, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/above-the-clouds" rel="346" class="filter346">Above the clouds</a></li><li> | <a href="/gallery/filter/a-classic-example" rel="347" class="filter347">A classic example</a></li><li> | <a href="/gallery/filter/stratus" rel="366" class="filter366">Stratus</a></li><li> | <a href="/gallery/filter/glory" rel="378" class="filter378">Glory</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Mary+Cooper&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223972%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Mary-Cooper.jpg&amp;p[summary]=A+glory+over+Oslo.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+glory+over+Oslo.https://cloudappreciationsociety.org/photo-n-223972/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223972%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223972%2F&amp;title=Mary+Cooper', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223972" href="https://cloudappreciationsociety.org/photo-n-223972/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>1</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223972" title="Like this"><i class='icon_heart'></i><span>12</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223972" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>1 Comment </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Joan H.</h4>
+				<span class="comment_date">August 6, 2017 at 6:49 pm</span>
+							</div>
+			<div class="text_holder" id="comment-507797">
+				<p>Mary, that photo is a winner and showcases the rewards we get when we choose a window seat, only if we pay attention on what is outside!!  Great observation.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223972%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_90" class="post3 image223971" rel="90" data-slug="photo-n-223971">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Peter-Ebert.jpg" data-lightbox="image223971" data-title="Peter Ebert"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Peter-Ebert.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A sunset over Korbach, Germany.<a href="/gallery/photographer/peter-ebert"> &copy; Peter Ebert</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:25 pm">August 3, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Peter+Ebert&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223971%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Peter-Ebert.jpg&amp;p[summary]=A+sunset+over+Korbach%2C+Germany.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+sunset+over+Korbach%2C+Germany.https://cloudappreciationsociety.org/photo-n-223971/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223971%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223971%2F&amp;title=Peter+Ebert', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223971" href="https://cloudappreciationsociety.org/photo-n-223971/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223971" title="Like this"><i class='icon_heart'></i><span>11</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223971" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223971%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_91" class="post3 image223844" rel="91" data-slug="photo-n-223844">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Giampiero-Barchiesi.jpg" data-lightbox="image223844" data-title="Giampiero Barchiesi"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Giampiero-Barchiesi.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A storm system over Jesi, Italy.<a href="/gallery/photographer/giampiero-barchiesi"> &copy; Giampiero Barchiesi</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:40 pm">August 2, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/arcus" rel="339" class="filter339">Arcus</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li><li> | <a href="/gallery/filter/praecipitatio" rel="356" class="filter356">Praecipitatio</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Giampiero+Barchiesi&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223844%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Giampiero-Barchiesi.jpg&amp;p[summary]=A+storm+system+over+Jesi%2C+Italy.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+storm+system+over+Jesi%2C+Italy.https://cloudappreciationsociety.org/photo-n-223844/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223844%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223844%2F&amp;title=Giampiero+Barchiesi', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223844" href="https://cloudappreciationsociety.org/photo-n-223844/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>2</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223844" title="Like this"><i class='icon_heart'></i><span>24</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223844" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>2  Comments </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Adolfo Garcia-Marin</h4>
+				<span class="comment_date">August 3, 2017 at 6:44 am</span>
+							</div>
+			<div class="text_holder" id="comment-505983">
+				<p>Great picture!</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Laurence Green</h4>
+				<span class="comment_date">August 3, 2017 at 3:20 pm</span>
+							</div>
+			<div class="text_holder" id="comment-506150">
+				<p>This is natural drama &#8211; big time!  What a view to witness!</p>
+<p>Laurence</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223844%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_92" class="post3 image223842" rel="92" data-slug="photo-n-223842">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Rebecca-Hill.jpg" data-lightbox="image223842" data-title="Rebecca Hill"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Rebecca-Hill.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A crepuscular curtain, aptly spotted over Curtin, Canberra, Australia.<a href="/gallery/photographer/rebecca-hill"> &copy; Rebecca Hill</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:33 pm">August 2, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/stratocumulus" rel="337" class="filter337">Stratocumulus</a></li><li> | <a href="/gallery/filter/a-classic-example" rel="347" class="filter347">A classic example</a></li><li> | <a href="/gallery/filter/crepuscular-rays-shadows" rel="357" class="filter357">Crepuscular rays &amp; shadows</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Rebecca+Hill&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223842%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Rebecca-Hill.jpg&amp;p[summary]=A+crepuscular+curtain%2C+aptly+spotted+over+Curtin%2C+Canberra%2C+Australia.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+crepuscular+curtain%2C+aptly+spotted+over+Curtin%2C+Canberra%2C+Australia.https://cloudappreciationsociety.org/photo-n-223842/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223842%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223842%2F&amp;title=Rebecca+Hill', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223842" href="https://cloudappreciationsociety.org/photo-n-223842/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>1</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223842" title="Like this"><i class='icon_heart'></i><span>5</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223842" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>1 Comment </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Joan H.</h4>
+				<span class="comment_date">August 6, 2017 at 6:52 pm</span>
+							</div>
+			<div class="text_holder" id="comment-507798">
+				<p>Wow.  This looks like the Gates of Heaven.  Great shot!</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223842%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_93" class="post3 image223839" rel="93" data-slug="photo-n-223839">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrick-Dennis.jpg" data-lightbox="image223839" data-title="Patrick Dennis"><img class="slideshowimage" sizes="(max-width: 675px) 100vw, 675px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrick-Dennis.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A lenticular 'pile up' over Cincinnati, Ohio, US.<a href="/gallery/photographer/patrick-dennis"> &copy; Patrick Dennis</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:23 pm">August 2, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/altocumulus" rel="331" class="filter331">Altocumulus</a></li><li> | <a href="/gallery/filter/lenticularis" rel="335" class="filter335">Lenticularis</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Patrick+Dennis&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223839%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Patrick-Dennis.jpg&amp;p[summary]=A+lenticular+%5C%27pile+up%5C%27+over+Cincinnati%2C+Ohio%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+lenticular+%27pile+up%27+over+Cincinnati%2C+Ohio%2C+US.https://cloudappreciationsociety.org/photo-n-223839/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223839%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223839%2F&amp;title=Patrick+Dennis', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223839" href="https://cloudappreciationsociety.org/photo-n-223839/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223839" title="Like this"><i class='icon_heart'></i><span>7</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223839" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223839%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_94" class="post3 image223833" rel="94" data-slug="photo-n-223833">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Neil-Draeger.jpg" data-lightbox="image223833" data-title="Neil Draeger"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Neil-Draeger.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A mammatus formation at sunset over La Farge, Wisconsin, US.<a href="/gallery/photographer/neil-draeger"> &copy; Neil Draeger</a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:10 pm">August 2, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/cumulonimbus" rel="340" class="filter340">Cumulonimbus</a></li><li> | <a href="/gallery/filter/mamma" rel="341" class="filter341">Mamma</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Neil+Draeger&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223833%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Neil-Draeger.jpg&amp;p[summary]=A+mammatus+formation+at+sunset+over+La+Farge%2C+Wisconsin%2C+US.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+mammatus+formation+at+sunset+over+La+Farge%2C+Wisconsin%2C+US.https://cloudappreciationsociety.org/photo-n-223833/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223833%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223833%2F&amp;title=Neil+Draeger', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223833" href="https://cloudappreciationsociety.org/photo-n-223833/#respond" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>0</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223833" title="Like this"><i class='icon_heart'></i><span>6</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223833" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>No Comments</h5></div></div>
+<div class="comments">
+</div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223833%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+                <li id="gallery_image_95" class="post3 image223831" rel="95" data-slug="photo-n-223831">
+            <div class="slideshowcontent">
+                                        <div class="slideshowimagewrapper" style="text-align: center; ">
+                        <a href="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Scott-McCaul.jpg" data-lightbox="image223831" data-title="Scott McCaul"><img class="slideshowimage" sizes="(max-width: 1000px) 100vw, 1000px" src="https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Scott-McCaul.jpg" style=""></a>
+                    </div>
+                
+                    <div class="slideshowcontentwrapper">
+                        <div class="slideshowexcerpt">A cloud takes off from Y.E.G. Airport, Edmonton, Canada.<a href="/gallery/photographer/scott-mcCaul "> &copy; Scott McCaul </a><br/>
+                        </div>
+
+                        
+                        <span class="slideshowratings meta-prep meta-prep-author">Posted on</span> <span class="entry-date" title="6:01 pm">August 2, 2017</span>
+                        
+                        <p class="slideshowtags">
+                            <strong>This is an example of:<br/></strong><ul class="cloud-filter"><li><a href="/gallery/filter/cumulus" rel="333" class="filter333">Cumulus</a></li><li> | <a href="/gallery/filter/our-favourites" rel="336" class="filter336">Our favourites</a></li><li> | <a href="/gallery/filter/sunset-sunrise" rel="338" class="filter338">Sunset / Sunrise</a></li><li> | <a href="/gallery/filter/cloudalikes" rel="348" class="filter348">Clouds that look like things</a></li></ul>
+                        </p>
+                        
+                        <div class="post_social">
+                            <div class="blog_share">
+                                <div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class="social_share social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Scott+McCaul&amp;p[url]=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223831%2F&amp;p[images][0]=https://cloudappreciationsociety.org/wp-content/uploads/2017/08/Scott-McCaul.jpg&amp;p[summary]=A+cloud+takes+off+from+Y.E.G.+Airport%2C+Edmonton%2C+Canada.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><span class="social_network_icon social_facebook_circle"></span><span class='share_text'>Facebook</span></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('http://twitter.com/home?status=A+cloud+takes+off+from+Y.E.G.+Airport%2C+Edmonton%2C+Canada.https://cloudappreciationsociety.org/photo-n-223831/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><span class="social_network_icon social_twitter_circle"></span><span class='share_text'>Twitter</span></a></li><li  class="google_share"><a href="#" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223831%2F', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_googleplus_circle"></span><span class='share_text'>Google+</span></a></li><li  class="linkedin_share"><a href="#" onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223831%2F&amp;title=Scott+McCaul', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><span class="social_network_icon social_linkedin_circle"></span><span class='share_text'>LinkedIn</span></a></li></ul></div></div>                            </div>
+                                                                <a class="comments_link post_comments" rel="223831" href="https://cloudappreciationsociety.org/photo-n-223831/#comments" target="_self">
+                                    <i class="icon_comment" aria-hidden="true"></i>
+                                    <span>2</span></a>
+                            
+                            <div class="blog_like">
+                                    <a href="#" class="qode-like" id="qode-like-223831" title="Like this"><i class='icon_heart'></i><span>14</span></span></a>                            </div>
+                        </div>
+
+            </div><!--.post-text-->
+
+            <div id="comments223831" class="slideshowcomments">
+                        <div class="comment_holder clearfix" id="comments">
+<div class="comment_number"><div class="comment_number_inner"><h5>2  Comments </h5></div></div>
+<div class="comments">
+
+	<ul class="comment-list">
+		
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Adolfo Garcia-Marin</h4>
+				<span class="comment_date">August 3, 2017 at 6:47 am</span>
+							</div>
+			<div class="text_holder" id="comment-505984">
+				<p>Well seen, Scott.</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+
+<li>                        
+	<div class="comment">
+		<div class="image"> <img src="https://live-cloud-appreciation-society.pantheonsite.io/wp-content/uploads/wp-user-avatar/avatar1489505822.png" alt="Photo Editor" class="avatar avatar- wp-user-avatar wp-user-avatar- alignnone photo" /> </div>
+		<div class="text">
+			<div class="comment_info">
+				<h4 class="name">Laurence Green</h4>
+				<span class="comment_date">August 3, 2017 at 3:18 pm</span>
+							</div>
+			<div class="text_holder" id="comment-506149">
+				<p>Indeed, well seen!  The &#8220;bird&#8221; is akin, to my way of thinking, reminiscent of the great American Bald White eagle.</p>
+<p>Laurence</p>
+			</div>
+		</div>
+	</div>                          
+                
+</li><!-- #comment-## -->
+	</ul>
+
+
+
+ </div></div>
+ <div class="comment_pager">
+	<p></p>
+ </div>
+ <div class="comment_form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h5>Post a Comment</h5> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">Cancel Reply</a></small></h3><p class="must-log-in">You must be <a href="https://cloudappreciationsociety.org/wp-login.php?redirect_to=https%3A%2F%2Fcloudappreciationsociety.org%2Fphoto-n-223831%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	</div>
+						
+								
+							
+
+
+            </div><!--#comments-->
+
+        </li><!--.post-->
+        
