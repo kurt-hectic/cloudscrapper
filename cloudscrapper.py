@@ -1,7 +1,7 @@
 from requests import Session
+from lxml.etree import tostring
 import lxml
 import lxml.html
-from lxml.etree import tostring
 import sys
 import urllib.request
 import os
@@ -22,14 +22,16 @@ def getImagesandTags(content):
 	return ret
 
 
-with open("filetags.csv","w") as file:	
+
+
+with open("filetags.csv","a") as file:	
 	session = Session()
 
 	# HEAD requests ask for *just* the headers, which is all you need to grab the
 	# session cookie
 	session.head('https://cloudappreciationsociety.org/gallery/')
 
-	for offset in range(0,64*100,32):
+	for offset in range(10208,32*1000,32):
 
 		response = session.post(
 			url='https://cloudappreciationsociety.org/wp-admin/admin-ajax.php',
@@ -54,21 +56,35 @@ with open("filetags.csv","w") as file:
 				
 				src = i["image"]
 				name = os.path.basename(src)
-				localname = "images/{}".format(name) 
+				tmp = src.split('/')
+
+				try:
+					imagedir = "images/{}/{}".format(tmp[-3],tmp[-2])
 				
-				print("downloading {}".format(src))
+					if not os.path.exists(imagedir):
+						os.makedirs(imagedir)
+
 				
-				response = session.get(src)
+					localname = "{}/{}".format(imagedir,name) 
+				
+					#print("downloading {}".format(src))
+				
+					response = session.get(src)
+				except Exception as e:
+					print("problem with url: '{}' {} offset {}".format(src,e,offset))
+					continue
+
 				
 				with open(localname, 'wb') as f:
 					f.write(response.content)
 				
+				
 
-				str = "{} :  {}\n".format( name , i["tags"] )
+				str = "{} :  {}\n".format( localname , ",".join(i["tags"]) )
 				file.write( str )
-				print(str)
+				
 				
 		else:
-			print("exiting with offser: {}".format(offset))
+			print("exiting with offset: {}".format(offset))
 			sys.exit(1)
 
